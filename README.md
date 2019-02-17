@@ -26,3 +26,13 @@ h+3 controls the growth of the grass blade.
 
 4. What does the -10 do in the second and fourth arguments of the line function, height-10-random(h)? Why is it there?
 -10 set the same height of each grass blade
+
+5. What's the point of an object?
+an object is a container that can visualize data.
+
+6. What's an example of a range you might use for the map function?
+rect(mouseX, mouseY, 10, 10)
+map(mouseX, 0, 400, 100, 200)
+
+7. What line of code would give me a random year in the last century?
+random(1900, 1999)
